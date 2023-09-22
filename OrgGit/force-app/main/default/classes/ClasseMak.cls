@@ -4,6 +4,6 @@ public with sharing class ClasseMak {
         //mi diverto a creare conflitti
         //scrivo in apex perchè mike dice così
         //ora va qui
-
+        //qualcuno ha detto just IT.
     }
 }
