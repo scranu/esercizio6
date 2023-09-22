@@ -5,5 +5,6 @@ public with sharing class ClasseMak {
         //scrivo in apex perchè mike dice così
         //ora va qui
         //qualcuno ha detto just IT.
+        //test
     }
 }
